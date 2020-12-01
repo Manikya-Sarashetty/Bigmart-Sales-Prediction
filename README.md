@@ -12,7 +12,7 @@ Step1 : Download the dataset(both test and train)
 
 Step2 : Download the finalcode.
 
-Step3 : Make changes in the code file about setting the path to the directory and execute to get output.
+Step3 : Make changes in the code file about setting the path to the directory and execute in jupyter notebook to get output.
 
 
 
